@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "IoT_1",
+    "Humidity": 20,
+    "Temperature": 32,
+    "Weather": "sunny"
+  },
+  {
+    "id": 2,
+    "name": "IoT_2",
+    "Humidity": 21,
+    "Temperature": 33,
+    "Weather": "rainy"
+  },
+  {
+    "id": 3,
+    "name": "IoT_3",
+    "Humidity": 22,
+    "Temperature": 34,
+    "Weather": "sunny"
+  },
+  {
+    "id": 4,
+    "name": "IoT_4",
+    "Humidity": 23,
+    "Temperature": 35,
+    "Weather": "windy"
+  },
+  {
+    "id": 5,
+    "name": "IoT_5",
+    "Humidity": 24,
+    "Temperature": 36,
+    "Weather": "sunny"
+  },
+  {
+    "id": 6,
+    "name": "IoT_6",
+    "Humidity": 25,
+    "Temperature": 37,
+    "Weather": "iFeelLonely"
+  },
+  {
+    "id": 7,
+    "name": "IoT_7",
+    "Humidity": 26,
+    "Temperature": 38,
+    "Weather": "sunny"
+  },
+  {
+    "id": 8,
+    "name": "IoT_8",
+    "Humidity": 27,
+    "Temperature": 39,
+    "Weather": "cloudy"
+  },
+  {
+    "id": 9,
+    "name": "IoT_9",
+    "Humidity": 28,
+    "Temperature": 40,
+    "Weather": "cloudy"
+  },
+  {
+    "id": 10,
+    "name": "IoT_10",
+    "Humidity": 51,
+    "Temperature": 98,
+    "Weather": "Hahaha, You are so funny"
+  },
+  {
+    "id": 15,
+    "name": "IoT_15",
+    "Humidity": 280,
+    "Temperature": 480,
+    "Weather": "Dirty"
+  }
+]
